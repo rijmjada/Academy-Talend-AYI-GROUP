@@ -8,7 +8,8 @@ Este repositorio forma parte del Bootcamp de Talend impartido por Ayi Group. Aqu
 
 ## Acerca de Talend
 
-[Talend](https://www.talend.com/) es una plataforma líder en integración de datos que te permite gestionar, transformar y analizar tus datos de manera efectiva. Desde la limpieza y preparación de datos hasta la implementación de flujos de trabajo complejos, Talend ofrece herramientas potentes para resolver tus desafíos de gestión de datos.
+Talend es una plataforma líder en integración de datos que te permite gestionar, transformar y analizar tus datos de manera efectiva. Desde la limpieza y preparación de datos hasta la implementación de flujos de trabajo complejos, Talend ofrece herramientas potentes para resolver tus desafíos de gestión de datos. https://www.talend.com/
+
 
 ![Texto alternativo](https://res.cloudinary.com/talend/image/upload/q_auto,w_450,h_469/products/spot/diag-product-data-fabric_f4fblq.webp)
 
