@@ -1,4 +1,4 @@
-# Academy Talend por Ayi Group
+c# Academy Talend por Ayi Group
 
 
 Este repositorio forma parte del Bootcamp de Talend impartido por Ayi Group. Aquí encontrarás ejercicios y material didáctico vistos durante el bootcamp.
@@ -20,3 +20,6 @@ Talend es una plataforma líder en integración de datos que te permite gestiona
 - Ejemplos de proyectos para inspirarte en tus propias aplicaciones.
 
 
+## Descargar Talend Studio y el JDK correspondiente en el siguiente enlace:
+
+[Talend Studio y JDK](https://drive.google.com/drive/folders/1-WpRxL8RUOFN16Zxy_8RLBe0K9PWWFkd?usp=sharing)
