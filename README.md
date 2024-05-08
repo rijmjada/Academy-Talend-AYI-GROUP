@@ -1,4 +1,4 @@
-# Bootcamp de Talend por Ayi Group
+# Academy Talend por Ayi Group
 
 
 Este repositorio forma parte del Bootcamp de Talend impartido por Ayi Group. Aquí encontrarás ejercicios y material didáctico vistos durante el bootcamp.
