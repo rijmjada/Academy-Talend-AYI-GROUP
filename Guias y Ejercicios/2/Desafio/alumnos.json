@@ -1,0 +1,34 @@
+{
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "García",
+      "edad": 25,
+      "email": "maria@example.com"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Martínez",
+      "edad": 28,
+      "email": "pedro@example.com"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "López",
+      "edad": 22,
+      "email": "laura@example.com"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "edad": 23,
+      "email": "juan@example.com"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "edad": 26,
+      "email": "ana@example.com"
+    }
+  ]
+}
