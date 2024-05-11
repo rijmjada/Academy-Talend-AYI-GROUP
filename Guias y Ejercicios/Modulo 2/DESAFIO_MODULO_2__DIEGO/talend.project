@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_7i4b4A8PEe-W36svPRE1pA" label="Desfio_Modulo_2_-_Manejo_de_Archivos" description="" language="java" technicalLabel="DESFIO_MODULO_2___MANEJO_DE_ARCHIVOS" local="true" author="_7i4b4Q8PEe-W36svPRE1pA" productVersion="Talend Open Studio for ESB-7.3.1.20200219_1130" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_7kHzlg8PEe-W36svPRE1pA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_7i4b4Q8PEe-W36svPRE1pA" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
