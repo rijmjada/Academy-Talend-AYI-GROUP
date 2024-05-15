@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Argentina>
+<Provincia>
+<id>1</id>
+<nombre>Buenos Aires</nombre>
+<habitantes>17541141</habitantes>
+<capital>La Plata</capital>
+</Provincia>
+<Provincia>
+<id>2</id>
+<nombre>Catamarca</nombre>
+<habitantes>429556</habitantes>
+<capital>San Fernando del Valle de Catamarca</capital>
+</Provincia>
+<Provincia>
+<id>3</id>
+<nombre>Chaco</nombre>
+<habitantes>1204541</habitantes>
+<capital>Resistencia</capital>
+</Provincia>
+<Provincia>
+<id>4</id>
+<nombre>Chubut</nombre>
+<habitantes>618994</habitantes>
+<capital>Rawson</capital>
+</Provincia>
+<Provincia>
+<id>5</id>
+<nombre>Córdoba</nombre>
+<habitantes>3831919</habitantes>
+<capital>Córdoba</capital>
+</Provincia>
+<Provincia>
+<id>6</id>
+<nombre>Corrientes</nombre>
+<habitantes>1120801</habitantes>
+<capital>Corrientes</capital>
+</Provincia>
+<Provincia>
+<id>7</id>
+<nombre>Entre Ríos</nombre>
+<habitantes>1385962</habitantes>
+<capital>Paraná</capital>
+</Provincia>
+<Provincia>
+<id>8</id>
+<nombre>Formosa</nombre>
+<habitantes>606041</habitantes>
+<capital>Formosa</capital>
+</Provincia>
+<Provincia>
+<id>9</id>
+<nombre>Jujuy</nombre>
+<habitantes>797955</habitantes>
+<capital>San Salvador de Jujuy</capital>
+</Provincia>
+<Provincia>
+<id>10</id>
+<nombre>La Pampa</nombre>
+<habitantes>358428</habitantes>
+<capital>Santa Rosa</capital>
+</Provincia>
+<Provincia>
+<id>11</id>
+<nombre>La Rioja</nombre>
+<habitantes>393531</habitantes>
+<capital>La Rioja</capital>
+</Provincia>
+<Provincia>
+<id>12</id>
+<nombre>Mendoza</nombre>
+<habitantes>2010376</habitantes>
+<capital>Mendoza</capital>
+</Provincia>
+<Provincia>
+<id>13</id>
+<nombre>Misiones</nombre>
+<habitantes>1266180</habitantes>
+<capital>Posadas</capital>
+</Provincia>
+<Provincia>
+<id>14</id>
+<nombre>Neuquén</nombre>
+<habitantes>726590</habitantes>
+<capital>Neuquén</capital>
+</Provincia>
+<Provincia>
+<id>15</id>
+<nombre>Río Negro</nombre>
+<habitantes>747610</habitantes>
+<capital>Viedma</capital>
+</Provincia>
+<Provincia>
+<id>16</id>
+<nombre>Salta</nombre>
+<habitantes>1441046</habitantes>
+<capital>Salta</capital>
+</Provincia>
+<Provincia>
+<id>17</id>
+<nombre>San Juan</nombre>
+<habitantes>818234</habitantes>
+<capital>San Juan</capital>
+</Provincia>
+<Provincia>
+<id>18</id>
+<nombre>San Luis</nombre>
+<habitantes>540905</habitantes>
+<capital>San Luis</capital>
+</Provincia>
+<Provincia>
+<id>19</id>
+<nombre>Santa Cruz</nombre>
+<habitantes>365698</habitantes>
+<capital>Río Gallegos</capital>
+</Provincia>
+<Provincia>
+<id>20</id>
+<nombre>Santa Fe</nombre>
+<habitantes>3532088</habitantes>
+<capital>Santa Fe</capital>
+</Provincia>
+<Provincia>
+<id>21</id>
+<nombre>Santiago del Estero</nombre>
+<habitantes>995840</habitantes>
+<capital>Santiago del Estero</capital>
+</Provincia>
+<Provincia>
+<id>22</id>
+<nombre>Tierra del Fuego</nombre>
+<habitantes>190641</habitantes>
+<capital>Ushuaia</capital>
+</Provincia>
+<Provincia>
+<id>23</id>
+<nombre>Tucumán</nombre>
+<habitantes>1816790</habitantes>
+<capital>San Miguel de Tucumán</capital>
+</Provincia>
+</Argentina>

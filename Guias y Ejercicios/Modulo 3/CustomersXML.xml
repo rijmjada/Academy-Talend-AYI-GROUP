@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OnlineShop>
+<Customer>
+<Id>1</Id>
+<First>Bill</First>
+<Last>Coolidge</Last>
+<Number>85013</Number>
+<Street>Via Real</Street>
+<City>Austin</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>2</Id>
+<First>Thomas</First>
+<Last>Coolidge</Last>
+<Number>63489</Number>
+<Street>Lindbergh Blvd</Street>
+<City>Springfield</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>3</Id>
+<First>Harry</First>
+<Last>Ford</Last>
+<Number>97249</Number>
+<Street>Monroe Street</Street>
+<City>Salt Lake City</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>4</Id>
+<First>Warren</First>
+<Last>McKinley</Last>
+<Number>82589</Number>
+<Street>Westside Freeway</Street>
+<City>Concord</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>5</Id>
+<First>Andrew</First>
+<Last>Taylor</Last>
+<Number>29886</Number>
+<Street>Padre Boulevard</Street>
+<City>Madison</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>6</Id>
+<First>Ulysses</First>
+<Last>Coolidge</Last>
+<Number>98646</Number>
+<Street>Bayshore Freeway</Street>
+<City>Columbus</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>7</Id>
+<First>Theodore</First>
+<Last>Clinton</Last>
+<Number>12292</Number>
+<Street>San Marcos</Street>
+<City>Bismarck</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>8</Id>
+<First>Benjamin</First>
+<Last>Jefferson</Last>
+<Number>82077</Number>
+<Street>Carpinteria North</Street>
+<City>Sacramento</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>9</Id>
+<First>William</First>
+<Last>Van Buren</Last>
+<Number>21712</Number>
+<Street>Tully Road East</Street>
+<City>Albany</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>10</Id>
+<First>Calvin</First>
+<Last>Washington</Last>
+<Number>50742</Number>
+<Street>Richmond Hill</Street>
+<City>Charleston</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>11</Id>
+<First>Jimmy</First>
+<Last>Polk</Last>
+<Number>76143</Number>
+<Street>Richmond Hill</Street>
+<City>Salt Lake City</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>12</Id>
+<First>Calvin</First>
+<Last>Adams</Last>
+<Number>52386</Number>
+<Street>Lake Tahoe Blvd.</Street>
+<City>Montgomery</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>13</Id>
+<First>Ulysses</First>
+<Last>Monroe</Last>
+<Number>70511</Number>
+<Street>Jones Road</Street>
+<City>Trenton</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>14</Id>
+<First>Zachary</First>
+<Last>Tyler</Last>
+<Number>45040</Number>
+<Street>Santa Rosa North</Street>
+<City>Carson City</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>15</Id>
+<First>Ulysses</First>
+<Last>Johnson</Last>
+<Number>19989</Number>
+<Street>Via Real</Street>
+<City>Juneau</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>16</Id>
+<First>George</First>
+<Last>Arthur</Last>
+<Number>89874</Number>
+<Street>Calle Real</Street>
+<City>Annapolis</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>17</Id>
+<First>George</First>
+<Last>Jefferson</Last>
+<Number>67703</Number>
+<Street>Fontaine Road</Street>
+<City>Pierre</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>18</Id>
+<First>Herbert</First>
+<Last>Grant</Last>
+<Number>90635</Number>
+<Street>North Ventu Park Road</Street>
+<City>Columbus</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>19</Id>
+<First>Calvin</First>
+<Last>Washington</Last>
+<Number>37446</Number>
+<Street>E Fowler Avenue</Street>
+<City>Pierre</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>20</Id>
+<First>John</First>
+<Last>Harrison</Last>
+<Number>86745</Number>
+<Street>San Marcos</Street>
+<City>Annapolis</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>21</Id>
+<First>Benjamin</First>
+<Last>Ford</Last>
+<Number>27921</Number>
+<Street>Carpinteria Avenue</Street>
+<City>Providence</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>22</Id>
+<First>Andrew</First>
+<Last>Fillmore</Last>
+<Number>96878</Number>
+<Street>Greenwood Road</Street>
+<City>Saint Paul</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>23</Id>
+<First>Warren</First>
+<Last>Arthur</Last>
+<Number>22920</Number>
+<Street>Jean de la Fontaine</Street>
+<City>Madison</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>24</Id>
+<First>Calvin</First>
+<Last>Pierce</Last>
+<Number>41962</Number>
+<Street>Santa Rosa North</Street>
+<City>Juneau</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>25</Id>
+<First>Woodrow</First>
+<Last>Clinton</Last>
+<Number>30587</Number>
+<Street>San Diego Freeway</Street>
+<City>Topeka</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>26</Id>
+<First>George</First>
+<Last>Jefferson</Last>
+<Number>95054</Number>
+<Street>Padre Boulevard</Street>
+<City>Denver</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>27</Id>
+<First>Lyndon</First>
+<Last>Eisenhower</Last>
+<Number>14379</Number>
+<Street>Newbury Road</Street>
+<City>Lincoln</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>28</Id>
+<First>John</First>
+<Last>Adams</Last>
+<Number>49993</Number>
+<Street>El Camino Real</Street>
+<City>Phoenix</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>29</Id>
+<First>Woodrow</First>
+<Last>Adams</Last>
+<Number>62404</Number>
+<Street>Jones Road</Street>
+<City>Springfield</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>30</Id>
+<First>George</First>
+<Last>Adams</Last>
+<Number>40011</Number>
+<Street>South Highway</Street>
+<City>Concord</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>31</Id>
+<First>Dwight</First>
+<Last>Pierce</Last>
+<Number>24382</Number>
+<Street>North Atherton Street</Street>
+<City>Providence</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>32</Id>
+<First>Thomas</First>
+<Last>Polk</Last>
+<Number>14024</Number>
+<Street>San Simeon</Street>
+<City>Lansing</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>33</Id>
+<First>Jimmy</First>
+<Last>Coolidge</Last>
+<Number>19658</Number>
+<Street>North Ventu Park Road</Street>
+<City>Sacramento</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>34</Id>
+<First>Theodore</First>
+<Last>Reagan</Last>
+<Number>30441</Number>
+<Street>Lake Tahoe Blvd.</Street>
+<City>Raleigh</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>35</Id>
+<First>William</First>
+<Last>Wilson</Last>
+<Number>96762</Number>
+<Street>San Luis Obispo North</Street>
+<City>Harrisburg</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>36</Id>
+<First>Andrew</First>
+<Last>McKinley</Last>
+<Number>45619</Number>
+<Street>San Luis Obispo North</Street>
+<City>Bismarck</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>37</Id>
+<First>George</First>
+<Last>Coolidge</Last>
+<Number>67507</Number>
+<Street>Santa Monica Road</Street>
+<City>Columbus</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>38</Id>
+<First>Richard</First>
+<Last>Carter</Last>
+<Number>42127</Number>
+<Street>Carpinteria Avenue</Street>
+<City>Columbia</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>39</Id>
+<First>Herbert</First>
+<Last>Hoover</Last>
+<Number>93826</Number>
+<Street>N Harrison St</Street>
+<City>Santa Fe</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>40</Id>
+<First>Herbert</First>
+<Last>Hoover</Last>
+<Number>86542</Number>
+<Street>East Calle Primera</Street>
+<City>Harrisburg</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>41</Id>
+<First>Chester</First>
+<Last>Quincy</Last>
+<Number>38921</Number>
+<Street>Santa Monica Road</Street>
+<City>Des Moines</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>42</Id>
+<First>Herbert</First>
+<Last>Washington</Last>
+<Number>71351</Number>
+<Street>Padre Boulevard</Street>
+<City>Indianapolis</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>43</Id>
+<First>Richard</First>
+<Last>Coolidge</Last>
+<Number>66918</Number>
+<Street>S Rustle St</Street>
+<City>Madison</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>44</Id>
+<First>Dwight</First>
+<Last>Pierce</Last>
+<Number>53765</Number>
+<Street>Burnett Road</Street>
+<City>Cheyenne</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>45</Id>
+<First>Calvin</First>
+<Last>Madison</Last>
+<Number>77564</Number>
+<Street>Harry S Truman Blvd</Street>
+<City>Boise</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>46</Id>
+<First>Zachary</First>
+<Last>Pierce</Last>
+<Number>91312</Number>
+<Street>Santa Ana Freeway</Street>
+<City>Annapolis</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>47</Id>
+<First>Thomas</First>
+<Last>Roosevelt</Last>
+<Number>47330</Number>
+<Street>East Fry Blvd.</Street>
+<City>Carson City</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>48</Id>
+<First>Thomas</First>
+<Last>Reagan</Last>
+<Number>76890</Number>
+<Street>Fontaine Road</Street>
+<City>Jackson</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>49</Id>
+<First>Ulysses</First>
+<Last>Reagan</Last>
+<Number>42195</Number>
+<Street>Cerrillos Road</Street>
+<City>Dover</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>50</Id>
+<First>Martin</First>
+<Last>Johnson</Last>
+<Number>32782</Number>
+<Street>Padre Boulevard</Street>
+<City>Springfield</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>51</Id>
+<First>Lyndon</First>
+<Last>Harding</Last>
+<Number>92517</Number>
+<Street>Burnett Road</Street>
+<City>Little Rock</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>52</Id>
+<First>Warren</First>
+<Last>Taft</Last>
+<Number>34746</Number>
+<Street>Newbury Road</Street>
+<City>Richmond</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>53</Id>
+<First>Lyndon</First>
+<Last>Jackson</Last>
+<Number>72876</Number>
+<Street>East Fry Blvd.</Street>
+<City>Jackson</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>54</Id>
+<First>Abraham</First>
+<Last>Tyler</Last>
+<Number>89260</Number>
+<Street>Carpinteria North</Street>
+<City>Annapolis</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>55</Id>
+<First>Bill</First>
+<Last>Eisenhower</Last>
+<Number>56724</Number>
+<Street>Timberlane Drive</Street>
+<City>Jackson</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>56</Id>
+<First>Rutherford</First>
+<Last>Harrison</Last>
+<Number>27209</Number>
+<Street>Bailard Avenue</Street>
+<City>Tallahassee</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>57</Id>
+<First>Jimmy</First>
+<Last>Garfield</Last>
+<Number>60346</Number>
+<Street>Harbor Dr</Street>
+<City>Helena</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>58</Id>
+<First>Herbert</First>
+<Last>Arthur</Last>
+<Number>38585</Number>
+<Street>East Calle Primera</Street>
+<City>Springfield</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>59</Id>
+<First>Millard</First>
+<Last>Reagan</Last>
+<Number>47551</Number>
+<Street>South Roosevelt Drive</Street>
+<City>Sacramento</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>60</Id>
+<First>Rutherford</First>
+<Last>Madison</Last>
+<Number>16987</Number>
+<Street>Bailard Avenue</Street>
+<City>Austin</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>61</Id>
+<First>Benjamin</First>
+<Last>Adams</Last>
+<Number>48190</Number>
+<Street>Grandview Drive</Street>
+<City>Montpelier</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>62</Id>
+<First>Ronald</First>
+<Last>Fillmore</Last>
+<Number>78647</Number>
+<Street>N Kentwood</Street>
+<City>Trenton</City>
+<State>al</State>
+</Customer>
+<Customer>
+<Id>63</Id>
+<First>Calvin</First>
+<Last>Taft</Last>
+<Number>36327</Number>
+<Street>North Preisker Lane</Street>
+<City>Jefferson City</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>64</Id>
+<First>George</First>
+<Last>Truman</Last>
+<Number>88678</Number>
+<Street>N Harrison St</Street>
+<City>Jefferson City</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>65</Id>
+<First>Herbert</First>
+<Last>Pierce</Last>
+<Number>32958</Number>
+<Street>East Main Street</Street>
+<City>Oklahoma City</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>66</Id>
+<First>Woodrow</First>
+<Last>Harrison</Last>
+<Number>49904</Number>
+<Street>Monroe Street</Street>
+<City>Montgomery</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>67</Id>
+<First>Benjamin</First>
+<Last>Adams</Last>
+<Number>32628</Number>
+<Street>Santa Rosa North</Street>
+<City>Boise</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>68</Id>
+<First>Herbert</First>
+<Last>Coolidge</Last>
+<Number>65573</Number>
+<Street>Cabrillo Highway</Street>
+<City>Salt Lake City</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>69</Id>
+<First>Grover</First>
+<Last>Van Buren</Last>
+<Number>76745</Number>
+<Street>San Ysidro Blvd</Street>
+<City>Columbia</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>70</Id>
+<First>Calvin</First>
+<Last>Harrison</Last>
+<Number>17512</Number>
+<Street>Santa Monica Road</Street>
+<City>Baton Rouge</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>71</Id>
+<First>Abraham</First>
+<Last>Hoover</Last>
+<Number>34027</Number>
+<Street>Grandview Drive</Street>
+<City>Augusta</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>72</Id>
+<First>Gerald</First>
+<Last>Adams</Last>
+<Number>65044</Number>
+<Street>Santa Ana Freeway</Street>
+<City>Albany</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>73</Id>
+<First>Dwight</First>
+<Last>Arthur</Last>
+<Number>65616</Number>
+<Street>Hutchinson Rd</Street>
+<City>Nashville</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>74</Id>
+<First>James</First>
+<Last>Fillmore</Last>
+<Number>77607</Number>
+<Street>Bowles Avenue</Street>
+<City>Springfield</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>75</Id>
+<First>Franklin</First>
+<Last>Johnson</Last>
+<Number>65748</Number>
+<Street>East Calle Primera</Street>
+<City>Indianapolis</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>76</Id>
+<First>Rutherford</First>
+<Last>Arthur</Last>
+<Number>49798</Number>
+<Street>N Kentwood</Street>
+<City>Carson City</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>77</Id>
+<First>Benjamin</First>
+<Last>Reagan</Last>
+<Number>35525</Number>
+<Street>North Ventu Park Road</Street>
+<City>Cheyenne</City>
+<State>AK</State>
+</Customer>
+<Customer>
+<Id>78</Id>
+<First>Benjamin</First>
+<Last>Roosevelt</Last>
+<Number>46838</Number>
+<Street>Tully Road East</Street>
+<City>Lansing</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>79</Id>
+<First>Richard</First>
+<Last>Coolidge</Last>
+<Number>53443</Number>
+<Street>Cleveland Ave.</Street>
+<City>Charleston</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>80</Id>
+<First>Warren</First>
+<Last>Tyler</Last>
+<Number>56024</Number>
+<Street>E Fowler Avenue</Street>
+<City>Jackson</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>81</Id>
+<First>James</First>
+<Last>Ford</Last>
+<Number>78424</Number>
+<Street>Erringer Road</Street>
+<City>Jackson</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>82</Id>
+<First>Ulysses</First>
+<Last>Taft</Last>
+<Number>80435</Number>
+<Street>Castillo Drive</Street>
+<City>Dover</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>83</Id>
+<First>Martin</First>
+<Last>Lincoln</Last>
+<Number>48090</Number>
+<Street>Erringer Road</Street>
+<City>Pierre</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>84</Id>
+<First>Warren</First>
+<Last>Grant</Last>
+<Number>39236</Number>
+<Street>Carpinteria North</Street>
+<City>Jefferson City</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>85</Id>
+<First>Gerald</First>
+<Last>Eisenhower</Last>
+<Number>12903</Number>
+<Street>Jones Road</Street>
+<City>Albany</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>86</Id>
+<First>William</First>
+<Last>Buchanan</Last>
+<Number>86382</Number>
+<Street>Bayshore Freeway</Street>
+<City>Raleigh</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>87</Id>
+<First>James</First>
+<Last>Harding</Last>
+<Number>67244</Number>
+<Street>N Harrison St</Street>
+<City>Phoenix</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>88</Id>
+<First>Theodore</First>
+<Last>Wilson</Last>
+<Number>18980</Number>
+<Street>Harry S Truman Blvd</Street>
+<City>Hartford</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>89</Id>
+<First>Richard</First>
+<Last>Madison</Last>
+<Number>55838</Number>
+<Street>Monroe Street</Street>
+<City>Santa Fe</City>
+<State>ak</State>
+</Customer>
+<Customer>
+<Id>90</Id>
+<First>Abraham</First>
+<Last>Wilson</Last>
+<Number>83959</Number>
+<Street>Hutchinson Rd</Street>
+<City>Nashville</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>91</Id>
+<First>John</First>
+<Last>Johnson</Last>
+<Number>64872</Number>
+<Street>Erringer Road</Street>
+<City>Olympia</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>92</Id>
+<First>Rutherford</First>
+<Last>Harding</Last>
+<Number>46743</Number>
+<Street>Steele Lane</Street>
+<City>Boston</City>
+<State>NY</State>
+</Customer>
+<Customer>
+<Id>93</Id>
+<First>John</First>
+<Last>Clinton</Last>
+<Number>42059</Number>
+<Street>Santa Ana Freeway</Street>
+<City>Columbus</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>94</Id>
+<First>Andrew</First>
+<Last>Johnson</Last>
+<Number>16064</Number>
+<Street>Harbor Dr</Street>
+<City>Sacramento</City>
+<State>IL</State>
+</Customer>
+<Customer>
+<Id>95</Id>
+<First>Thomas</First>
+<Last>Fillmore</Last>
+<Number>26120</Number>
+<Street>Jean de la Fontaine</Street>
+<City>Little Rock</City>
+<State>ca</State>
+</Customer>
+<Customer>
+<Id>96</Id>
+<First>Chester</First>
+<Last>Taft</Last>
+<Number>89505</Number>
+<Street>North Preisker Lane</Street>
+<City>Cheyenne</City>
+<State>AL</State>
+</Customer>
+<Customer>
+<Id>97</Id>
+<First>Lyndon</First>
+<Last>Cleveland</Last>
+<Number>85642</Number>
+<Street>North Atherton Street</Street>
+<City>Hartford</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>98</Id>
+<First>Rutherford</First>
+<Last>Polk</Last>
+<Number>99837</Number>
+<Street>Santa Monica Road</Street>
+<City>Boise</City>
+<State>CA</State>
+</Customer>
+<Customer>
+<Id>99</Id>
+<First>Thomas</First>
+<Last>Wilson</Last>
+<Number>36910</Number>
+<Street>Tanger Blvd</Street>
+<City>Salem</City>
+<State>MN</State>
+</Customer>
+<Customer>
+<Id>100</Id>
+<First>Benjamin</First>
+<Last>Taylor</Last>
+<Number>81222</Number>
+<Street>North Erringer Road</Street>
+<City>Concord</City>
+<State>MN</State>
+</Customer>
+</OnlineShop>
