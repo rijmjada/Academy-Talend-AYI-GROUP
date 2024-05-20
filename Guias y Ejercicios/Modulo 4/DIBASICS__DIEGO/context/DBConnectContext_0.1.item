@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_q5k8UBbbEe-hBMcV_zHpjQ" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_q5k8URbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Database" prompt="DBConnect_Database?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_q5k8UhbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Password" prompt="DBConnect_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:HeD5B63MubTE5LhhVXuB8SEDwCu4bHPBIyYUEgv1Yy3zlA=="/>
+    <contextParameter xmi:id="_q5k8UxbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_AdditionalParams" prompt="DBConnect_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_q5k8VBbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Server" prompt="DBConnect_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_q5k8VRbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Login" prompt="DBConnect_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_q5k8VhbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Port" prompt="DBConnect_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_q5k8VxbbEe-hBMcV_zHpjQ" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_q5k8WBbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Database" prompt="DBConnect_Database?" promptNeeded="false" type="id_String" value="production"/>
+    <contextParameter xmi:id="_q5k8WRbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Password" prompt="DBConnect_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:/fVgWBsUHgJfaQZ85286kRdC5CUqpJbqBufLsVy7/sR1dg=="/>
+    <contextParameter xmi:id="_q5k8WhbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_AdditionalParams" prompt="DBConnect_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_q5k8WxbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Server" prompt="DBConnect_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_q5k8XBbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Login" prompt="DBConnect_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_q5k8XRbbEe-hBMcV_zHpjQ" comment="" name="DBConnect_Port" prompt="DBConnect_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+</xmi:XMI>

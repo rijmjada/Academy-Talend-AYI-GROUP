@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_q5uGRRbbEe-hBMcV_zHpjQ" name="Production">
+    <contextParameter xmi:id="_q5uGRhbbEe-hBMcV_zHpjQ" comment="" name="Limit" prompt="Limit?" promptNeeded="false" type="id_String" value="10"/>
+    <contextParameter xmi:id="_q5uGRxbbEe-hBMcV_zHpjQ" comment="" name="Order" prompt="Order?" promptNeeded="false" type="id_String" value="asc"/>
+    <contextParameter xmi:id="_q5uGSBbbEe-hBMcV_zHpjQ" comment="" name="path_xml_output" prompt="path_xml_output?" promptNeeded="false" type="id_String" value="PROD/Customers_retail_XML_production.xml"/>
+    <contextParameter xmi:id="_q5uGSRbbEe-hBMcV_zHpjQ" comment="" name="tag_root_xml" prompt="tag_root_xml?" promptNeeded="false" type="id_String" value="OnlineShopProduction"/>
+    <contextParameter xmi:id="_q5uGShbbEe-hBMcV_zHpjQ" comment="" name="path_json_output" prompt="path_json_output?" promptNeeded="false" type="id_String" value="PROD/CustomersJSON_production.json"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_q5uGSxbbEe-hBMcV_zHpjQ" name="Test">
+    <contextParameter xmi:id="_q5uGTBbbEe-hBMcV_zHpjQ" comment="" name="Limit" prompt="Limit?" promptNeeded="false" type="id_String" value="10"/>
+    <contextParameter xmi:id="_q5uGTRbbEe-hBMcV_zHpjQ" comment="" name="Order" prompt="Order?" promptNeeded="false" type="id_String" value="desc"/>
+    <contextParameter xmi:id="_q5uGThbbEe-hBMcV_zHpjQ" comment="" name="path_xml_output" prompt="path_xml_output?" promptNeeded="false" type="id_String" value="Test/Customers_retail_XML_training.xml"/>
+    <contextParameter xmi:id="_q5uGTxbbEe-hBMcV_zHpjQ" comment="" name="tag_root_xml" prompt="tag_root_xml?" promptNeeded="false" type="id_String" value="OnlineShopTraining"/>
+    <contextParameter xmi:id="_q5uGUBbbEe-hBMcV_zHpjQ" comment="" name="path_json_output" prompt="path_json_output?" promptNeeded="false" type="id_String" value="Test/CustomersJSON_training.json"/>
+  </talendfile:ContextType>
+</xmi:XMI>

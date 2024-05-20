@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_q5uGQBbbEe-hBMcV_zHpjQ" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_q5uGQRbbEe-hBMcV_zHpjQ" comment="Number of selected rows" name="Limit" prompt="Limit?" promptNeeded="true" type="id_String" value="LIMIT 1000"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_q5uGQhbbEe-hBMcV_zHpjQ" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_q5uGQxbbEe-hBMcV_zHpjQ" comment="Number of selected rows" name="Limit" prompt="Limit?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
