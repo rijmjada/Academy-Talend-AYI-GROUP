@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_mY1wchepEe-NiLEh3JOcyA" comment="connectionComment" label="connectionLabel" dataPackage="_mY1wcxepEe-NiLEh3JOcyA"/>
+  <TalendMetadata:GenericPackage xmi:id="_mY1wcxepEe-NiLEh3JOcyA" dataManager="_mY1wchepEe-NiLEh3JOcyA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_mY1wdBepEe-NiLEh3JOcyA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wdRepEe-NiLEh3JOcyA" name="impacto_presupuestario_anio" id="31770" label="impacto_presupuestario_anio" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wdhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wdxepEe-NiLEh3JOcyA" name="impacto_presupuestario_mes" id="31771" label="impacto_presupuestario_mes" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1weBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1weRepEe-NiLEh3JOcyA" name="ejercicio_presupuestario" id="31772" label="ejercicio_presupuestario" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wehepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wexepEe-NiLEh3JOcyA" name="sector_id" id="31773" label="sector_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wfBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wfRepEe-NiLEh3JOcyA" name="sector_desc" id="31774" label="sector_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wfhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wfxepEe-NiLEh3JOcyA" name="subsector_id" id="31775" label="subsector_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wgBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wgRepEe-NiLEh3JOcyA" name="subsector_desc" id="31776" label="subsector_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wghepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wgxepEe-NiLEh3JOcyA" name="caracter_id" id="31777" label="caracter_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1whBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1whRepEe-NiLEh3JOcyA" name="caracter_desc" id="31778" label="caracter_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1whhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1whxepEe-NiLEh3JOcyA" name="jurisdiccion_id" id="31779" label="jurisdiccion_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wiBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wiRepEe-NiLEh3JOcyA" name="jurisdiccion_desc" id="31780" label="jurisdiccion_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wihepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wixepEe-NiLEh3JOcyA" name="subjurisdiccion_id" id="31781" label="subjurisdiccion_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wjBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wjRepEe-NiLEh3JOcyA" name="subjurisdiccion_desc" id="31782" label="subjurisdiccion_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wjhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wjxepEe-NiLEh3JOcyA" name="entidad_id" id="31783" label="entidad_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wkBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wkRepEe-NiLEh3JOcyA" name="entidad_desc" id="31784" label="entidad_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wkhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wkxepEe-NiLEh3JOcyA" name="servicio_id" id="31785" label="servicio_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wlBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wlRepEe-NiLEh3JOcyA" name="servicio_desc" id="31786" label="servicio_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wlhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wlxepEe-NiLEh3JOcyA" name="programa_id" id="31787" label="programa_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wmBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wmRepEe-NiLEh3JOcyA" name="programa_desc" id="31788" label="programa_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wmhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wmxepEe-NiLEh3JOcyA" name="subprograma_id" id="31789" label="subprograma_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wnBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wnRepEe-NiLEh3JOcyA" name="subprograma_desc" id="31790" label="subprograma_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wnhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wnxepEe-NiLEh3JOcyA" name="proyecto_id" id="31791" label="proyecto_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1woBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1woRepEe-NiLEh3JOcyA" name="proyecto_desc" id="31792" label="proyecto_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wohepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1woxepEe-NiLEh3JOcyA" name="actividad_id" id="31793" label="actividad_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wpBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wpRepEe-NiLEh3JOcyA" name="actividad_desc" id="31794" label="actividad_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wphepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wpxepEe-NiLEh3JOcyA" name="obra_id" id="31795" label="obra_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wqBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wqRepEe-NiLEh3JOcyA" name="obra_desc" id="31796" label="obra_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wqhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wqxepEe-NiLEh3JOcyA" name="finalidad_id" id="31797" label="finalidad_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wrBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wrRepEe-NiLEh3JOcyA" name="finalidad_desc" id="31798" label="finalidad_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wrhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wrxepEe-NiLEh3JOcyA" name="funcion_id" id="31799" label="funcion_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wsBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wsRepEe-NiLEh3JOcyA" name="funcion_desc" id="31800" label="funcion_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wshepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wsxepEe-NiLEh3JOcyA" name="inciso_id" id="31801" label="inciso_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wtBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wtRepEe-NiLEh3JOcyA" name="inciso_desc" id="31802" label="inciso_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wthepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wtxepEe-NiLEh3JOcyA" name="principal_id" id="31803" label="principal_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wuBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wuRepEe-NiLEh3JOcyA" name="principal_desc" id="31804" label="principal_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wuhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wuxepEe-NiLEh3JOcyA" name="parcial_id" id="31805" label="parcial_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wvBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wvRepEe-NiLEh3JOcyA" name="parcial_desc" id="31806" label="parcial_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wvhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wvxepEe-NiLEh3JOcyA" name="subparcial_id" id="31807" label="subparcial_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wwBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wwRepEe-NiLEh3JOcyA" name="subparcial_desc" id="31808" label="subparcial_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wwhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wwxepEe-NiLEh3JOcyA" name="clasificador_economico_8_digitos_id" id="31809" label="clasificador_economico_8_digitos_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wxBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wxRepEe-NiLEh3JOcyA" name="clasificador_economico_8_digitos_desc" id="31810" label="clasificador_economico_8_digitos_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wxhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wxxepEe-NiLEh3JOcyA" name="fuente_financiamiento_id" id="31811" label="fuente_financiamiento_id" length="15" precision="-1" sourceType="" talendType="id_Double">
+        <initialValue xmi:id="_mY1wyBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wyRepEe-NiLEh3JOcyA" name="fuente_financiamiento_desc" id="31812" label="fuente_financiamiento_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wyhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wyxepEe-NiLEh3JOcyA" name="ubicacion_geografica_id" id="31813" label="ubicacion_geografica_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1wzBepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wzRepEe-NiLEh3JOcyA" name="ubicacion_geografica_desc" id="31814" label="ubicacion_geografica_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1wzhepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1wzxepEe-NiLEh3JOcyA" name="unidad_ejecutora_id" id="31815" label="unidad_ejecutora_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1w0BepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w0RepEe-NiLEh3JOcyA" name="unidad_ejecutora_desc" id="31816" label="unidad_ejecutora_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w0hepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w0xepEe-NiLEh3JOcyA" name="prestamo_externo_id" id="31817" label="prestamo_externo_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1w1BepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w1RepEe-NiLEh3JOcyA" name="prestamo_externo_desc" id="31818" label="prestamo_externo_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w1hepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w1xepEe-NiLEh3JOcyA" name="codigo_bapin_id" id="31819" label="codigo_bapin_id" length="10" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_mY1w2BepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w2RepEe-NiLEh3JOcyA" name="codigo_bapin_desc" id="31820" label="codigo_bapin_desc" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w2hepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w2xepEe-NiLEh3JOcyA" name="credito_presupuestado" id="31821" label="credito_presupuestado" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w3BepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w3RepEe-NiLEh3JOcyA" name="credito_vigente" id="31822" label="credito_vigente" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w3hepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w3xepEe-NiLEh3JOcyA" name="credito_comprometido" id="31823" label="credito_comprometido" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w4BepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w4RepEe-NiLEh3JOcyA" name="credito_devengado" id="31824" label="credito_devengado" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w4hepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w4xepEe-NiLEh3JOcyA" name="credito_pagado" id="31825" label="credito_pagado" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w5BepEe-NiLEh3JOcyA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mY1w5RepEe-NiLEh3JOcyA" name="ultima_actualizacion_fecha" id="31826" label="ultima_actualizacion_fecha" length="255" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_mY1w5hepEe-NiLEh3JOcyA"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

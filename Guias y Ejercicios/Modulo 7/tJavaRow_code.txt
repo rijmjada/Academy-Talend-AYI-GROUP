@@ -1,0 +1,31 @@
+String countryCode = "";
+switch (input_row.Country.trim().toLowerCase()) {
+	case "usa":
+		countryCode = "US";
+		break;
+	case "deutschland":
+		countryCode = "DE";
+		break;
+	case "united kingdom":
+		countryCode = "UK";
+		break;
+	case "france":
+		countryCode = "FR";
+		break;
+	case "italia":
+		countryCode = "IT";
+		break;
+}
+
+
+//Code generated according to input schema and output schema
+output_row.Firstname = input_row.Firstname;
+output_row.Lastname = input_row.Lastname;
+output_row.Address = input_row.Address;
+output_row.City = input_row.City;
+output_row.Zipcode = input_row.Zipcode;
+output_row.State = input_row.State;
+output_row.Country = input_row.Country;
+output_row.ID = countryCode+String.format("%10s", Numeric.sequence("s1",1,1)+"").replace(' ', '0');
+
+

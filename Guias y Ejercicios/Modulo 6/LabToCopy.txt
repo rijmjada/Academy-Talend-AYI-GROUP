@@ -1,0 +1,10 @@
+tFileArchive
+"C:/Backup/archive_"+TalendDate.getDate("CCYYMMDD_hhmmss")+".zip"
+
+------------------------------
+tWarn
+"this is a warning! "+((Integer)globalMap.get("tFileList_1_NB_FILE"))+" files were listed in " +context.StagingDirectory+" but the compression process failed with the error message: "+((String)globalMap.get("tFileArchive_1_ERROR_MESSAGE"))
+
+------------------------------
+tFixedFlowInput
+"Directory "+((String)globalMap.get("tFileDelete_1_DELETE_PATH"))+" has been deleted"

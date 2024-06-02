@@ -1,0 +1,48 @@
+/* Copy the following section in the Start code box */
+
+// start part of your Java code
+
+String countryCode = "";
+int currentID = 0;
+int usID = 1;
+int deID = 1;
+int frID = 1;
+int ukID = 1;
+int itID = 1;
+
+
+/* Copy the following section in the Main code box */
+
+// here is the main part of the component,
+// a piece of code executed in the row
+// loop
+
+switch (raw_data.Country.trim().toLowerCase()) {
+	case "usa":
+		countryCode = "US";
+		currentID = usID;
+		usID ++;
+		break;
+	case "deutschland":
+		countryCode = "DE";
+		currentID = deID;
+		deID ++;
+		break;
+	case "united kingdom":
+		countryCode = "UK";
+		currentID = ukID;
+		ukID ++;
+		break;
+	case "france":
+		countryCode = "FR";
+		currentID = frID;
+		frID ++;
+		break;
+	case "italia":
+		countryCode = "IT";
+		currentID = itID;	
+		itID ++;
+		break;
+}
+
+enriched_data.ID = countryCode+String.format("%10s", currentID+"").replace(' ', '0');

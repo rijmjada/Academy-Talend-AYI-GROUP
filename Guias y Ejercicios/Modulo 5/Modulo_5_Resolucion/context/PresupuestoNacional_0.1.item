@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Ao55IBiVEe-YeNtoa_9nDQ" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_Ao55IRiVEe-YeNtoa_9nDQ" comment="" name="DBHost" prompt="DBHost?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_Ao55IhiVEe-YeNtoa_9nDQ" comment="" name="DBPort" prompt="DBPort?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_Ao55IxiVEe-YeNtoa_9nDQ" comment="" name="DBUser" prompt="DBUser?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_Ao55JBiVEe-YeNtoa_9nDQ" comment="" name="DBPassword" prompt="DBPassword?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_Ao55JRiVEe-YeNtoa_9nDQ" comment="" name="DBTable" prompt="DBTable?" promptNeeded="false" type="id_String" value="creditoMensual"/>
+    <contextParameter xmi:id="_Ao55JhiVEe-YeNtoa_9nDQ" comment="" name="DBDataBase" prompt="DBDataBase?" promptNeeded="false" type="id_String" value="production"/>
+    <contextParameter xmi:id="_Ao55JxiVEe-YeNtoa_9nDQ" comment="" name="DBTable_NoCrompometido" prompt="DBTable_NoCrompometido?" promptNeeded="false" type="id_String" value="CreditoNoComprometido"/>
+    <contextParameter xmi:id="_Ao55KBiVEe-YeNtoa_9nDQ" comment="" name="path_CreditoNoComprometidoCSV" prompt="path_CreditoNoComprometidoCSV?" promptNeeded="false" type="id_String" value="&quot;C:/PROD/CreditoNoComprometido.csv&quot;"/>
+    <contextParameter xmi:id="_Ao55KRiVEe-YeNtoa_9nDQ" comment="" name="DBTable_CreditoRestante" prompt="DBTable_CreditoRestante?" promptNeeded="false" type="id_String" value="CreditoRestante"/>
+    <contextParameter xmi:id="_Ao55KhiVEe-YeNtoa_9nDQ" comment="" name="path_totalRestanteJSON" prompt="path_totalRestanteJSON?" promptNeeded="false" type="id_String" value="&quot;C:/PROD/TotalRestante.json&quot;"/>
+    <contextParameter xmi:id="_Ao55KxiVEe-YeNtoa_9nDQ" comment="" name="path_TotalDIF" prompt="path_TotalDIF?" promptNeeded="false" type="id_String" value="&quot;C:/PROD/TotalDIFout.txt&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Ao55LBiVEe-YeNtoa_9nDQ" confirmationNeeded="false" name="Training">
+    <contextParameter xmi:id="_Ao55LRiVEe-YeNtoa_9nDQ" comment="" name="DBHost" prompt="DBHost?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_Ao55LhiVEe-YeNtoa_9nDQ" comment="" name="DBPort" prompt="DBPort?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_Ao55LxiVEe-YeNtoa_9nDQ" comment="" name="DBUser" prompt="DBUser?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_Ao55MBiVEe-YeNtoa_9nDQ" comment="" name="DBPassword" prompt="DBPassword?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_Ao55MRiVEe-YeNtoa_9nDQ" comment="" name="DBTable" prompt="DBTable?" promptNeeded="false" type="id_String" value="creditoMensual"/>
+    <contextParameter xmi:id="_Ao55MhiVEe-YeNtoa_9nDQ" comment="" name="DBDataBase" prompt="DBDataBase?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_Ao55MxiVEe-YeNtoa_9nDQ" comment="" name="DBTable_NoCrompometido" prompt="DBTable_NoCrompometido?" promptNeeded="false" type="id_String" value="CreditoNoComprometido"/>
+    <contextParameter xmi:id="_Ao55NBiVEe-YeNtoa_9nDQ" comment="" name="path_CreditoNoComprometidoCSV" prompt="path_CreditoNoComprometidoCSV?" promptNeeded="false" type="id_String" value="&quot;C:/TEST/CreditoNoComprometido.csv&quot;"/>
+    <contextParameter xmi:id="_Ao55NRiVEe-YeNtoa_9nDQ" comment="" name="DBTable_CreditoRestante" prompt="DBTable_CreditoRestante?" promptNeeded="false" type="id_String" value="CreditoRestante"/>
+    <contextParameter xmi:id="_Ao55NhiVEe-YeNtoa_9nDQ" comment="" name="path_totalRestanteJSON" prompt="path_totalRestanteJSON?" promptNeeded="false" type="id_String" value="&quot;C:/TEST/TotalRestante.json&quot;"/>
+    <contextParameter xmi:id="_Ao55NxiVEe-YeNtoa_9nDQ" comment="" name="path_TotalDIF" prompt="path_TotalDIF?" promptNeeded="false" type="id_String" value="&quot;C:/TEST/TotalDIFout.txt&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>
