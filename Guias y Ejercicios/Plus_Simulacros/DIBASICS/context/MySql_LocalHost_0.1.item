@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_K4Q8kCUsEe-uTf7iavSyWQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_K4Q8kSUsEe-uTf7iavSyWQ" comment="" name="MySql_LocalHost_Port" prompt="MySql_LocalHost_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_K4Q8kiUsEe-uTf7iavSyWQ" comment="" name="MySql_LocalHost_Login" prompt="MySql_LocalHost_Login?" promptNeeded="false" type="id_String" value="root"/>
+  <contextParameter xmi:id="_K4Q8kyUsEe-uTf7iavSyWQ" comment="" name="MySql_LocalHost_Database" prompt="MySql_LocalHost_Database?" promptNeeded="false" type="id_String" value="talend"/>
+  <contextParameter xmi:id="_K4Q8lCUsEe-uTf7iavSyWQ" comment="" name="MySql_LocalHost_Password" prompt="MySql_LocalHost_Password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_K4Q8lSUsEe-uTf7iavSyWQ" comment="" name="MySql_LocalHost_Server" prompt="MySql_LocalHost_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_K4Q8liUsEe-uTf7iavSyWQ" comment="" name="MySql_LocalHost_AdditionalParams" prompt="MySql_LocalHost_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
